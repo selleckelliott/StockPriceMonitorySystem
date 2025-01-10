@@ -1,0 +1,2 @@
+# StockPriceMonitorySystem
+Observer Pattern Process
